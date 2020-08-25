@@ -1,0 +1,11 @@
+  @font-face {  
+    font-family: 'LED';  
+    src: url('LED.ttf');  
+    font-weight: normal;  
+    font-style: normal;  
+  }
+  @font-face {  
+    font-family: 'AgencyFB';  
+    src: url('AgencyFB.ttf');   
+    font-style: normal;  
+  }
